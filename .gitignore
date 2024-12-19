@@ -1,0 +1,17 @@
+__pycache__/
+etools_telegram_bot/
+sample/
+sample_data/
+SAP/
+screenshot/
+.env
+test.*
+*.zip
+*.log
+*.txt
+*.csv
+*.xlsx
+!requirements.txt
+!sample_scripts.txt
+.python_packages
+.venv

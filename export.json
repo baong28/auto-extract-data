@@ -1,0 +1,6 @@
+{ 
+    "usernameTxtBox" : "//input[@id='email']",
+    "passwordTxtBox" : "//input[@id='password']",
+    "submitButton" :   "//input[@class='btn btn-default btn-login']"
+}
+

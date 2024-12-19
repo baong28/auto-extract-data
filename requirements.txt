@@ -1,0 +1,15 @@
+# # Need to install these libraries:  pip install -r requirements.txt
+selenium
+python-dotenv==0.19.2
+xlsx2csv==0.8.3
+python-telegram-bot
+certifi==2020.12.05
+webdriver_manager
+pandas
+numpy
+urllib3==2.2.3
+six
+requests
+joblib==1.4.2
+openpyxl
+xlsxwriter
