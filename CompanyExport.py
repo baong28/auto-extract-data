@@ -240,7 +240,7 @@ class CompanyExport:
 
     def Extract_Company_Revenue( self, driver, from_date, to_date ):
         '''
-        Export Revenue company House // company Premium 
+        Export company Revenue 
 
         '''
         filename = from_date + '_' + to_date + "_Company.xlsx"
@@ -321,7 +321,7 @@ class CompanyExport:
 
     def Extract_Company_Regimen(self, driver, from_date, to_date):
             '''
-            Export Regimen company House // company Premium 
+            Export company Regimen
 
             '''
             filename = from_date + '_' + to_date + "_Company.xlsx"
@@ -401,7 +401,7 @@ class CompanyExport:
 
     def Extract_Company_Service(self, driver, from_date, to_date):
             '''
-            Export Service company House // company Premium 
+            Export Company Service 
 
             '''
             filename = from_date + '_' + to_date + "_Company.xlsx"
